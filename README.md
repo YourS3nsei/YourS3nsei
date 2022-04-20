@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YourS3nsei
 - 👀 I’m interested in ... Game Development and AI.
-- 🌱 I’m currently learning ... Frameworks, UI and Unix,C++ and Java and also Front End Development.
+- 🌱 I’m currently learning ... Frameworks, UI and Unix,C++, Java and also Front End Development.
 - 💞️ I’m looking to collaborate on ... Machine Learning.
 - 📫 How to reach me ... Twitter @dilipbadal1
 
